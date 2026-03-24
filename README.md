@@ -15,7 +15,8 @@ CScript to minimalistyczny wrapper, który pozwala uruchamiać kod źródłowy w
 ## Instalacja
 
 ```bash
-git clone https://github.com/twoje-repo/CScript.git
+git clone https://github.com/WellIDKRealy/CScript
 cd CScript
 make
 sudo make install
+```
