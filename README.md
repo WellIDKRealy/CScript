@@ -1,0 +1,1 @@
+Program pozwalaj±cy u¿ywaæ C jako jêzyka skryptowego, u¿ywa on w tym celu kompilatora tcc natomiast zamiana na gcc jest trywialna
